@@ -33,7 +33,7 @@
     "docs": "yuidoc ."
   },
   "dependencies": {
-    "pngjs-image": "~0.11.5",
+    "pngjs-image": "yahoo/pngjs-image.git#6e1e33a",
     "preceptor-core": "~0.10.0",
     "promise": "6.0.0"
   },
